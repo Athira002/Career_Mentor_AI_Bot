@@ -51,7 +51,6 @@ pip install -r requirements.txt
 4. **Configure environment variables:**
 
 - Create a .env file in the root directory.
-
 - Add your Hugging Face API key:
 
 ```bash
@@ -68,35 +67,30 @@ streamlit run career_mentor.py
 
 ---
 
-💡 Usage
+## 💡 Usage
 
-Quick Questions: Click on any predefined question to get instant guidance.
-
-Custom Question: Type your career-related query in the chat input box.
-
-Reset Chat: Use the "Reset Chat" button to start a new conversation.
+- Quick Questions: Click on any predefined question to get instant guidance.
+- Custom Question: Type your career-related query in the chat input box.
+- Reset Chat: Use the "Reset Chat" button to start a new conversation.
 
 ---
 
-⚠️ Notes
+## ⚠️ Notes
 
-Ensure your Hugging Face API key is valid and has access to facebook/blenderbot-400M-distill.
-
-The bot handles HTTP errors gracefully and provides friendly messages for troubleshooting.
-
----
-
-📈 Future Improvements
-
-Add user authentication for personalized chat sessions.
-
-Store chat history in a database for long-term analysis.
-
-Integrate additional AI models for specialized advice.
+- Ensure your Hugging Face API key is valid and has access to facebook/blenderbot-400M-distill.
+- The bot handles HTTP errors gracefully and provides friendly messages for troubleshooting.
 
 ---
 
-📬 Contact
+## 📈 Future Improvements
 
-Athira Sreekumar
-Email: athisree.02@gmail.com
+- Add user authentication for personalized chat sessions.
+- Store chat history in a database for long-term analysis.
+- Integrate additional AI models for specialized advice.
+
+---
+
+## 📬 Contact
+
+### Athira Sreekumar
+### Email: athisree.02@gmail.com
