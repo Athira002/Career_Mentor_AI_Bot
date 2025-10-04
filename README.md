@@ -25,17 +25,6 @@ A web-based AI-powered chatbot that provides **instant career guidance** using H
 
 ---
 
-## 📂 Project Structure
-
-career-mentor-ai-bot/
-│
-├── career_mentor.py # Main Streamlit app
-├── requirements.txt # Python dependencies
-├── .env.example # Environment variables (HF_API_KEY)
-└── README.md # Project documentation
-
----
-
 ## ⚡ Setup & Installation
 
 1. **Clone the repository:**
@@ -47,27 +36,35 @@ cd career-mentor-ai-bot
 
 2. **Create a virtual environment (optional but recommended):**
 
+```bash
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
+```
 
 3. **Install dependencies:**
 
+```bash
 pip install -r requirements.txt
+```
 
 4. **Configure environment variables:**
 
-Create a .env file in the root directory.
+- Create a .env file in the root directory.
 
-Add your Hugging Face API key:
+- Add your Hugging Face API key:
 
+```bash
 HF_API_KEY=your_huggingface_api_key_here
+```
 
 5. **🏃‍♂️ Run the App**
 
+```bash
 streamlit run career_mentor.py
+```
 
-Open your browser and navigate to the URL shown in the terminal (usually http://localhost:8501).
+- Open your browser and navigate to the URL shown in the terminal (usually http://localhost:8501).
 
 ---
 
