@@ -34,7 +34,7 @@ git clone https://github.com/<your-username>/career-mentor-ai-bot.git
 cd career-mentor-ai-bot
 ```
 
-2. **Create a virtual environment (optional but recommended):**
+2. **Create a virtual environment:**
 
 ```bash
 python -m venv venv
