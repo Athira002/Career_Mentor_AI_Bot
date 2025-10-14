@@ -90,11 +90,6 @@ streamlit run career_mentor.py
 
 ---
 
-### 📹 Demo / Walkthrough  
-[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/ac7310a534484354815a481c8c1080ae-without-?sid=9639bd5e-75a1-4d37-b3c9-4e747421a089.png)](https://www.loom.com/share/ac7310a534484354815a481c8c1080ae?sid=9639bd5e-75a1-4d37-b3c9-4e747421a089)
-
----
-
 ## 📬 Contact
 
 ### Athira Sreekumar
